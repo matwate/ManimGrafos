@@ -27,3 +27,5 @@ manim-slides convert Diapositivas.html --one-file --offline -ccontrols=true --op
 Eso le pedira seleccionar que archivo de diapositivas quiere convertir, seleccionar "DiapositivasProyecto"
 
 De todas formas, en el repositorio esta incluido DiapositivasFinal.html que es el resultado final.
+
+Me reservo el codigo para el control remoto, contiene informacion sensible
